@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'GoodTimesRg-Regular';
+font-style: normal;
+font-weight: normal;
+src: local('GoodTimesRg-Regular'), url('good times rg.woff') format('woff');
+}
+h1, #logo1, .logo1 {
+    font-family: 'GoodTimesRg-Regular';
+}
